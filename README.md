@@ -1,7 +1,7 @@
 # IMDb-Top-250-Dashboard
 IMDb Top 250 Movies Dashboard Analysis
 This project provides a comprehensive visual analysis of the IMDb Top 250 movies. The dashboard explores how cinema has evolved over the past century, focusing on ratings, viewership, and the volume of top-rated films per decade.
-
+![Dashboard Preview](dashboard.png)
 📊 Key Insights 
 Total Movies: 250 films with an average rating of 8.31.
 
